@@ -1,6 +1,6 @@
 ### Olá! Eu sou Tony Douglas
 
-- 🔭 Hoje trabalho como infraestrutura "redes e servidores"
+- 🔭 Hoje trabalho como infraestrutura "redes e servidores Linux e windows"
 - 🌱 Eu estou aprendendo sobre sistemas open source
 - 👯 Estou me aprofundando em zabbix e wazuh
 - 🤔 Meta para o fim de 2024, fazer a certificação lpi  
